@@ -1,0 +1,3 @@
+name: mcaustin1-t3
+main: com.tenjava.entries.mcaustin1.t3.TenJava
+version: '${project.version}'
